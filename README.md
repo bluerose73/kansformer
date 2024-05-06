@@ -4,7 +4,7 @@ A quick and dirty modification of nanoGPT to support transformers with KAN (Kans
 
 ## Install
 
-1. Follow the install instructions of nanoGPT below.
+1. Follow the [install] and [quick start] sections of nanoGPT below.
 2. Install kan dependencies.
    ```bash
    pip install matplotlib scikit-learn
