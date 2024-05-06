@@ -1,3 +1,16 @@
+# Kansformer
+
+A quick and dirty modification of nanoGPT to support transformers with KAN (Kansformer).
+
+## Install
+
+1. Follow the install instructions of nanoGPT below.
+2. Install kan dependencies.
+   ```bash
+   pip install matplotlib scikit-learn
+   ```
+3. Add ``use_kan=True`` in config file. Example: ``config/train_shakespeare_char_kan.py``
+
 
 # nanoGPT
 
